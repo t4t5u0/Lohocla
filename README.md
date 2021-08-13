@@ -1,5 +1,5 @@
 # Lohocla
-飲みたいお酒はIssueまで
+飲みたいお酒は[Issue](https://github.com/t4t5u0/Lohocla/issues)まで
 
 
 ## レシピを探すのに便利なリンク
